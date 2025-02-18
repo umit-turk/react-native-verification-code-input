@@ -1,23 +1,31 @@
 {
   "name": "react-native-verification-code-input",
   "version": "1.0.0",
+  "description": "A customizable verification code input component for React Native",
   "main": "index.ts",
+  "types": "index.ts",
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
-  "dependencies": {
-    "expo": "~52.0.35",
-    "expo-status-bar": "~2.0.1",
-    "react": "18.3.1",
-    "react-native": "0.76.7"
+  "keywords": [
+    "react-native",
+    "verification",
+    "code",
+    "input",
+    "otp",
+    "authentication",
+    "expo"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2",
-    "@types/react": "~18.3.12",
-    "typescript": "^5.3.3"
-  },
-  "private": true
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.72.0",
+    "typescript": "^5.0.0"
+  }
 }
