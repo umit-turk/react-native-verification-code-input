@@ -1,12 +1,16 @@
 {
   "name": "react-native-verification-code-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable verification code input component for React Native",
   "main": "index.ts",
   "types": "index.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umit-turk/react-native-verification-code-input.git"
   },
   "keywords": [
     "react-native",
@@ -15,10 +19,17 @@
     "input",
     "otp",
     "authentication",
-    "expo"
+    "expo",
+    "sms",
+    "verification-code",
+    "auto-fill"
   ],
-  "author": "Your Name",
+  "author": "Ümit Türk",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umit-turk/react-native-verification-code-input/issues"
+  },
+  "homepage": "https://github.com/umit-turk/react-native-verification-code-input#readme",
   "peerDependencies": {
     "react": "*",
     "react-native": "*"

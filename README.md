@@ -2,6 +2,14 @@
 
 A highly customizable verification code input component for React Native and Expo applications. Perfect for OTP (One-Time Password), authentication codes, and verification processes. By default, it accepts only numeric input, making it ideal for PIN codes and OTP verification. Supports SMS auto-fill on both iOS and Android platforms.
 
+## 📱 Demo
+
+### iOS Demo
+![iOS Demo](https://github.com/user-attachments/assets/f7134b8f-fd21-46c3-8bea-b7580e2491a5)
+
+### Android Demo
+![Android Demo](https://github.com/user-attachments/assets37fbc293-eb60-40b1-81a5-16db6c87f92f)
+
 ## ✨ Features
 
 - 🎨 Fully customizable appearance
@@ -35,10 +43,14 @@ A highly customizable verification code input component for React Native and Exp
 ```bash
 # Using npm
 npm install react-native-verification-code-input
+```
 
+```bash
 # Using yarn
 yarn add react-native-verification-code-input
+```
 
+```bash
 # Using pnpm
 pnpm add react-native-verification-code-input
 ```
@@ -152,8 +164,12 @@ No additional configuration is needed - it works out of the box!
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/react-native-verification-code-input/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/umit-turk/react-native-verification-code-input/issues).
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed. # react-native-verification-code-input
+This project is [MIT](./LICENSE) licensed.
+
+## 📦 Repository
+
+You can find the source code on [GitHub](https://github.com/umit-turk/react-native-verification-code-input).
