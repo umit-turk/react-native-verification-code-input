@@ -45,8 +45,8 @@ pnpm add react-native-verification-code-input
 
 ## 🚀 Quick Start
 
-[IOS]
-[ANDROID]
+[IOS] https://github.com/user-attachments/assets/f7134b8f-fd21-46c3-8bea-b7580e2491a5
+[ANDROID] https://github.com/user-attachments/assets37fbc293-eb60-40b1-81a5-16db6c87f92f
 
 ```jsx
 import { VerificationCodeInput } from 'react-native-verification-code-input';
@@ -149,7 +149,6 @@ No additional configuration is needed - it works out of the box!
 - iOS
 - Android
 - Expo
-- Web (React Native Web)
 
 ## 🤝 Contributing
 
