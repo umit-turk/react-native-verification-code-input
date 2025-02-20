@@ -2,6 +2,9 @@
 
 A highly customizable verification code input component for React Native and Expo applications. Perfect for OTP (One-Time Password), authentication codes, and verification processes. By default, it accepts only numeric input, making it ideal for PIN codes and OTP verification. Supports SMS auto-fill on both iOS and Android platforms.
 
+## Now you can buy me coffee
+<a href="https://www.buymeacoffee.com/umityasarturk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## 📱 Demo
 ### iOS Demo
 ![iOS Demo](https://github.com/user-attachments/assets/f7134b8f-fd21-46c3-8bea-b7580e2491a5)
